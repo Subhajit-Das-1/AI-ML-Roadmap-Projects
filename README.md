@@ -1,4 +1,4 @@
-# 🚀 AI-ML Roadmap Repository
+# 🚀 AI-ML Roadmap Repository 
 
 <p align="center">
   <img src="assets/ai-ml-roadmap.png" alt="AI-ML Roadmap" width="100%">
